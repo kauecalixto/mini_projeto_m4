@@ -1,6 +1,6 @@
 // View to format carbon footprint data
 class CarbonFootprintView {
-    // Format data for API response
+    // Format data for API response'
     static formatResponse(data) {
       return {
         ...data,
