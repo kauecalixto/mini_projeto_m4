@@ -1,4 +1,4 @@
-// Simulated data about deforestation
+// 'Simulated data about deforestation'
 const deforestationData = [
   {
     year: 2022,
