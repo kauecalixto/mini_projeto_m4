@@ -2,7 +2,7 @@
 
 const Logger = require('../utils/logger'); // Import the custom logger utility
 
-// Middleware to log incoming requests and responses
+// Middleware to log incoming requests and response's
 const loggerMiddleware = (req, res, next) => {
   // Capture the start time of the request
   const start = new Date();
