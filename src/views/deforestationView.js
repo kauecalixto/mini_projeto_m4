@@ -1,4 +1,4 @@
-// View to format deforestation data
+// View to format deforestation data'
 class DeforestationView {
     // Format data for API response
     static formatResponse(data, source) {
