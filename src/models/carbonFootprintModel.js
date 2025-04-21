@@ -78,5 +78,5 @@ class CarbonFootprintModel {
   }
 }
 
-// Export the model so it can be used in other modules
+// Export the model so it can be used in other module's
 module.exports = CarbonFootprintModel;
