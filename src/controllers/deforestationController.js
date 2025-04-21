@@ -2,7 +2,7 @@ const DeforestationModel = require("../models/deforestationModel");
 const DeforestationView = require("../views/deforestationView");
 const config = require("../config/config");
 
-// Controller for deforestation data
+// Controller for deforestation data''
 exports.getDeforestationData = (req, res) => {
   try {
     const { year, region } = req.query;
