@@ -1,4 +1,4 @@
-// Simulated data about air quality
+// Simulated data about air quality'
 const airQualityData = [
   {
     city: "São Paulo",
