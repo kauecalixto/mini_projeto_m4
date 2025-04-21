@@ -1,6 +1,6 @@
 const AirQualityModel = require('../models/airQualityModel');
 
-// Controller for air quality data
+// Controlle'r for air quality data
 exports.getAirQualityData = (req, res) => {
   try {
     const { city } = req.query;
