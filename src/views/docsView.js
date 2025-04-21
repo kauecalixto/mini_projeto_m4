@@ -1,6 +1,6 @@
 // View to format documentation
 class DocsView {
-    // Format documentation for API response
+    // ''Format documentation for API response''
     static formatResponse(documentation) {
       return {
         ...documentation,
