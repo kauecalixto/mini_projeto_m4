@@ -1,4 +1,4 @@
-// src/utils/logger.js
+// src/utils/logger.js ''
 
 // Utilitário para logging
 class Logger {
