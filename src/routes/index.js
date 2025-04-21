@@ -7,13 +7,13 @@ const airQualityController = require('../controllers/airQualityController');
 const carbonFootprintController = require('../controllers/carbonFootprintController');
 const docsController = require('../controllers/docsController');
 
-// Deforestation routes
+// Deforestation route's
 router.get('/deforestation', deforestationController.getDeforestationData);
 
-// Air quality routes
+// Air quality route's
 router.get('/air-quality', airQualityController.getAirQualityData);
 
-// Carbon footprint routes
+// Carbon footprint route's
 router.get('/carbon-footprint', carbonFootprintController.calculateCarbonFootprint);
 
 // Documentation route
