@@ -1,4 +1,4 @@
-// Controller for API documentation
+// 'Controller for 'API documentation'
 exports.getDocumentation = (req, res) => {
   const documentation = {
     api_name: "Environmental Data API",
