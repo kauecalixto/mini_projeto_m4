@@ -1,6 +1,6 @@
 // View to format air quality data
 class AirQualityView {
-    // Format data for API response
+    // Format data for API response'
     static formatResponse(data, source) {
       return {
         data: data,
