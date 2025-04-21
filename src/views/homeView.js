@@ -1,4 +1,4 @@
-// src/views/homeView.js
+// ''src/views/homeView.js''
 
 // View para formatar a página inicial
 class HomeView {
